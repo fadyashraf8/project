@@ -26,7 +26,7 @@ export default function Home() {
 
         <input type="file" name="" id="" onChange={handleChange} className='form form-control mt-5' />
        <div className='text-center mt-4'>
-       <img src={file} className='w-75' alt="" srcset="" />
+       <img src={file} className='w-75'  />
        </div>
         </form>
       </div>
